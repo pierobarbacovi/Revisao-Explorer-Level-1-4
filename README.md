@@ -4,7 +4,7 @@ Desafio que envolve o máximo de conteúdo visto nos stages iniciais do Rocketse
 <strong><h1 align="center">Explore sem limites</h1></strong>
 
 <p align="center">
-  <img alt="" src=".Images/preview.png" width="100%">
+  <img alt="" src="./Images/preview.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
